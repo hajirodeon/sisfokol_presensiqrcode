@@ -14,7 +14,7 @@ source code ini basis php mysql. pastikan menggunakan webserver xampp 5.6.30 . d
 
 3. kalau sudah benar, maka bisa login admin dengan User : admin, Password : biasawae
 
-4. install apk android, di hp android kamu. dan coba jalankan.
+4. install apk android (bisa cek di folder filebox), ke hp android kamu. dan coba jalankan.
 
 
 
