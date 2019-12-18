@@ -14,6 +14,20 @@ source code ini basis php mysql. pastikan menggunakan webserver xampp 5.6.30 . d
 
 3. kalau sudah benar, maka bisa login admin dengan User : admin, Password : biasawae
 
+4. install apk android, di hp android kamu. dan coba jalankan.
+
+
+
+
+
+
+
+source code android :
+
+https://github.com/hajirodeon/sisfokol_android_presensiqrcode
+
+
+
 
 
 
